@@ -1,0 +1,21 @@
+{
+    "packagesCarried": {
+        "keys": [],
+        "values": []
+    },
+    "packagesDeliveried": {
+        "keys": [],
+        "values": []
+    },
+    "playerPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "playerRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "remainingTaskTime": -1.0
+}
