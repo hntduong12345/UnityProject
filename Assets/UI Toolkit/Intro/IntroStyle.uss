@@ -1,0 +1,31 @@
+.btn {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-right: 28px;
+    padding-left: 28px;
+    -unity-font: url('project://database/Assets/Font/Montserrat-SemiBold.ttf?fileID=12800000&guid=ee2d1e4c5e50cd2428fd9525b9de4194&type=3#Montserrat-SemiBold');
+    -unity-font-definition: initial;
+    background-color: rgba(255, 255, 255, 0);
+    border-left-color: rgba(40, 40, 40, 0);
+    border-right-color: rgba(40, 40, 40, 0);
+    border-top-color: rgba(40, 40, 40, 0);
+    border-bottom-color: rgba(40, 40, 40, 0);
+}
+
+.btn:hover {
+    background-color: rgba(84, 84, 84, 0);
+    border-bottom-color: rgb(255, 255, 255);
+    border-bottom-width: 2px;
+    border-left-color: rgba(56, 56, 56, 0);
+    border-right-color: rgba(56, 56, 56, 0);
+    border-top-color: rgba(92, 92, 92, 0);
+    transition-property: border-bottom-width;
+    transition-duration: 5s;
+    transition-timing-function: ease-in-out;
+    cursor: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=-1087164816274819069&guid=42beb7f3710e35f4287a2f94ac066fc0&type=3#arrow-right@2x');
+    scale: 1.1 1.1;
+    color: rgb(255, 255, 255);
+    -unity-font: url('project://database/Assets/Font/Montserrat-BlackItalic.ttf?fileID=12800000&guid=a4143b024569ce747bf8d7cef803940e&type=3#Montserrat-BlackItalic');
+    -unity-font-definition: initial;
+    background-image: url('project://database/Assets/Art/Sprites/UI/UIDialogueBox.png?fileID=2800000&guid=ce5afa1fa1b1e684098419a8455659b0&type=3#UIDialogueBox');
+}
